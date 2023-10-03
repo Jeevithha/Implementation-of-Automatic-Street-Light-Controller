@@ -69,9 +69,11 @@ delay(5000);
 }
 ```
 ## CIRCUIT DIAGRAM:
+
 ![267843970-d92661e7-a35f-487c-9986-278bfff45cfe](https://github.com/Jeevithha/Implementation-of-Automatic-Street-Light-Controller/assets/123623197/a8218289-107e-4337-893d-f53b2ac67c55)
 
 ## OUTPUT:
+
 ![JEEVS](https://github.com/Jeevithha/Implementation-of-Automatic-Street-Light-Controller/assets/123623197/8491cbad-258c-46c1-a434-82afdda6fb1c)
 
 ## RESULT:
